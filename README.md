@@ -1,7 +1,7 @@
 Hi 👋 My name is Mert
 =====================
 
-Front-End Web Developer Trainee
+Front-End Web Developer
 -------------------------------
 
 * 🌍  I'm based in Istanbul
