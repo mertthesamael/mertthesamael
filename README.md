@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertthesamael&label=Profile%20views&color=0e75b6&style=flat" alt="mertthesamael" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Solidity**
 
 - 📝 I regularly write articles on [https://medium.com/@mertenercan](https://medium.com/@mertenercan)
 
