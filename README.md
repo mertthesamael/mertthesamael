@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertthesamael&label=Profile%20views&color=0e75b6&style=flat" alt="mertthesamael" /> </p>
 
 # 💫 About Me:
-🌱 Git Gut lol<br>📝 I regularly write articles on https://medium.com/@mertenercan<br>📫 How to reach me mertenercan@gmail.com<br>⚡ And also I love cats. A lot.
+🌱 Git Gud lol<br>📝 I regularly write articles on https://medium.com/@mertenercan<br>📫 How to reach me mertenercan@gmail.com<br>⚡ And also I love cats. A lot.
 
 
 ## 🌐 Socials:
